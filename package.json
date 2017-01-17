@@ -1,7 +1,7 @@
 {
-  "name": "ReactReduxStarter",
+  "name": "BookStore",
   "version": "1.0.0",
-  "description": "Seed app for react-redux applications",
+  "description": "Playground Application",
   "main": "build/index.html",
   "scripts": {
     "clean": "rimraf build",
@@ -44,11 +44,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RamonTaino/ReactReduxStarter.git"
+    "url": "git+https://github.com/RamonTaino/BookStore.git"
   },
   "bugs": {
-    "url": "https://github.com/RamonTaino/ReactReduxStarter/issues"
+    "url": "https://github.com/RamonTaino/BookStore/issues"
   },
-  "homepage": "https://github.com/RamonTaino/ReactReduxStarter#readme"
+  "homepage": "https://github.com/RamonTaino/BookStore#readme"
 
 }

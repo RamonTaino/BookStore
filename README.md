@@ -1,8 +1,8 @@
-# ReactReduxStarter
-> Seed app for react-redux applications
+# BookStore
+> Playground Application
 ```
-git clone https://github.com/RamonTaino/ReactReduxStarter.git
-cd ReactReduxStarter
+git clone https://github.com/RamonTaino/BookStore.git
+cd BookStore
 npm install
 npm run serve
 ```
