@@ -1,8 +1,8 @@
-# ReduxStarter
+# ReactReduxStarter
 > Seed app for react-redux applications
 ```
 git clone https://github.com/RamonTaino/ReactReduxStarter.git
-cd ReduxStarter
+cd ReactReduxStarter
 npm install
 npm run serve
 ```
